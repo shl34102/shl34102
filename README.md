@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 ## 🎓 학력 및 경력 (Education & Experience)
 
 * **2025.07 ~ 2026.06:** SSAFY 14기 교육생
-* **2017.03 ~ 2022.03:** 계명대학교 식품영양학과
 
 ---
 ---
